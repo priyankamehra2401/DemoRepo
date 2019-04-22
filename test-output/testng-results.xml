@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FreeCRM testcases" duration-ms="62950" started-at="2019-04-21T14:04:18Z" finished-at="2019-04-21T14:05:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62950" started-at="2019-04-21T14:04:18Z" finished-at="2019-04-21T14:05:21Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="setup" is-config="true" duration-ms="11580" started-at="2019-04-22T00:04:18Z" finished-at="2019-04-22T00:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="createNewContactTest" duration-ms="5774" started-at="2019-04-22T00:04:30Z" data-provider="getCRMTestData" finished-at="2019-04-22T00:04:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chair]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[desk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Chair.desk@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="setup" is-config="true" duration-ms="8921" started-at="2019-04-22T00:04:36Z" finished-at="2019-04-22T00:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="createNewContactTest" duration-ms="5617" started-at="2019-04-22T00:04:45Z" data-provider="getCRMTestData" finished-at="2019-04-22T00:04:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sofa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bed]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sofa.bed@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="setup" is-config="true" duration-ms="9096" started-at="2019-04-22T00:04:50Z" finished-at="2019-04-22T00:04:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="createNewContactTest" duration-ms="6040" started-at="2019-04-22T00:04:59Z" data-provider="getCRMTestData" finished-at="2019-04-22T00:05:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fridge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cooler]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LinkedIn]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Fridge.cooler@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="setup" is-config="true" duration-ms="9279" started-at="2019-04-22T00:05:05Z" finished-at="2019-04-22T00:05:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@1bce4f0a]" name="createNewContactTest" duration-ms="6277" started-at="2019-04-22T00:05:15Z" data-provider="getCRMTestData" finished-at="2019-04-22T00:05:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TV]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Computer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Facebook]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TV.Computer@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- FreeCRM testcases -->
+</testng-results>

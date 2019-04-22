@@ -1,0 +1,10 @@
+com/crm/qa/base/TestBase.class
+com/crm/qa/utilities/Utilities.class
+com/crm/qa/pages/Login.class
+com/crm/qa/pages/DealsPage.class
+com/crm/qa/pages/SignUp.class
+com/crm/qa/pages/TasksPage.class
+com/crm/qa/utilities/WebEventListener.class
+com/crm/qa/pages/ContactsPage.class
+com/crm/qa/pages/HomePage.class
+com/qa/ExtentReportListner/ExtentReporterNG.class
